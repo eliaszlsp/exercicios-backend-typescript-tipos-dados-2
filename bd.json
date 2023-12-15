@@ -1,0 +1,14 @@
+[
+  {
+    "nome": "jose",
+    "email": "jose@gmail.com",
+    "cpf": "32165498778",
+    "profissao": "dev_full_stack",
+    "endereco": {
+      "cep": "08131220",
+      "rua": "estudante da China",
+      "bairro": "Itaim Paulista",
+      "cidade": "SP"
+    }
+  }
+]
